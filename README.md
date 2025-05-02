@@ -6,44 +6,6 @@ Naive Bayes Classifier | 10-Fold Cross-Validation | ROC Curve Analysis | Machine
 This repo contains a Jupyter Notebook that implements the **Gaussian Naïve Bayes algorithm** from scratch to perform binary classification on the famous **Iris dataset 🌸**. The dataset consists of three types of iris flowers: *Setosa*, *Versicolor,* and *Virginica*. 
 
 
-<!-- Custom CSS for Styling -->
-```html
-<style>
-  h1, h2, h3 {
-    color:rgb(143, 166, 189);
-  }
-  code {
-    background-color: #f3f3f3;
-    padding: 2px 5px;
-    border-radius: 5px;
-  }
-  /* pre {
-    background-color: #f3f3f3;
-    padding: 10px;
-    border-radius: 5px;
-  } */
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    padding: 10px;
-    border: 1px solid #ddd;
-  }
-  th {
-    background-color: #3498db;
-    color: white;
-  }
-  .image-pair {
-    display: flex;
-    padding: 10px;
-    margin: 40px 10px;
-    width: 600px;
-    height: 550px
-  }
-</style>
-```
-
 ## Table of Contents
 - [File Structure 📂](#file-structure-📂)
 - [Requirements](#requirements)
