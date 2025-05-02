@@ -7,6 +7,7 @@ This repo contains a Jupyter Notebook that implements the **Gaussian Naïve Baye
 
 
 <!-- Custom CSS for Styling -->
+```html
 <style>
   h1, h2, h3 {
     color:rgb(143, 166, 189);
@@ -41,7 +42,7 @@ This repo contains a Jupyter Notebook that implements the **Gaussian Naïve Baye
     height: 550px
   }
 </style>
-
+```
 
 ## Table of Contents
 - [File Structure 📂](#file-structure-📂)
